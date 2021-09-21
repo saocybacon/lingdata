@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="marina" DATE="2021-09-21T16:45:16+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/mss-0/Downloads/obsujdaem_obsugdenie.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./obsujdaem_obsugdenie.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3c00667d-0e52-45e7-b2e7-34405276fd48</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">97</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1465"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1465"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="4034"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="5440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="22320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="22320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="24350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="24359"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="24790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="25409"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="29255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="30129"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="36839"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="37347"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="60734"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="60734"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="76550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="78500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="79000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="79108"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="86395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="88650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="109016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="109954"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="114867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="115200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="124601"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="124906"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="128938"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="129846"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="144325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="145407"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="170397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="171142"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="173203"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="174152"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="183855"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="184610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="195512"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="195790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="199160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="199451"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="201375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="202762"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="203222"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="204120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="208810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="209181"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="213591"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="213626"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="228000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="229608"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="256105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="257000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="278468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="280000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="285774"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="286638"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="289938"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="290397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="292841"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="294530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="295096"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="295096"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="295458"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="295943"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="299305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="302621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="303969"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="304000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="308765"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="309653"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="330637"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="330642"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="351500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="351800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="355367"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="357265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="357274"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="358203"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="363549"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="365029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="372141"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="372855"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="374911"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="376860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="387593"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="388400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="397222"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="397502"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="422073"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="422603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="422858"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="saocybacon" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@sms2002f" TIER_ID="text@sms2002f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>ладно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>кхм кхм</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>обсуждаем обсуждение</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>мы всё ещё про Алису Теплякову говорим?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>аа / я считаю что ситуация ужасная  // значит ребёнок девятилетний / аа / который хочет стать психологом нуждается в психологе // лучше бы конечно отец / чтобы пошёл к психологу // это конечно похвально но  / аа / в девять лет типа можно дать какой-нибудь профильный класс где будет меньше уделяться времени общеобразовательным предметам глупым  /  типа вот как у меня было / то есть экстернатом сдаёшь предметы очень глупые / в то время для меня // сейчас нет // биологию географию / и потом  делаешь что хочешь</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>а ребёнок всё равно будет под присмотром</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>ну тут дело в том что видимо эм родитель / именно отец  / потому что судя по интервью мама у них не особо такая общительная // просто свои внутренние комплексы за счёт ребёнка удовлетворяет //  но наверное дело не совсем в этом / дело в том // м-мы обсуждаем именно тот факт нормально ли что девятилетний ребёнок учится на одном из самых сложных аа направлений / ну типа для мозга скажем так // тот есть психология это понятие природы человека / это очень сложно / вот // нормально ли что девятилетний неокрепший разум там учится</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>там просто сразу образуется ещё несколько проблем например хамство отца // просто я-я честно говоря / я вот так вот думаю / аа / если бы у меня была бы такая ситуация то есть я бы ходила бы со взрослым / очень взрослым человеком / а он ходил бы со своим ребёнком вундеркиндом якобы // типа просто мы не можем этого утверждать потому что мы сами не виделись с ней и психологи / насколько я знаю / не разговаривали // вот // о чём я // ну в общем если бы у меня была бы такая ситуация / я бы наверное очень сильно из-за этого переживала потому что это отвлекает от учебного процесса / вот // и ещё проблема вот чём / аа / многие говорят что // я вот... из того что я читала там под / а / подслушано мгу и что-нибудь такое // ребята такие / ладно допустим она вундеркинд / допустим ей нужно это образование она может там пройти грубо говоря курс бакалавриата там психфака за два года вместо четырёх / стать там специалистом // первый вопрос который возникает это что она потом будет делать / то есть ну грубо говоря в двенадцать лет она закончила универ / что она работать пойдёт / каким образом?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>боже это до восемнадцати лет она получит все ступени образования</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>и..и.. потом всё // а кто платить будет за докт...докторнатуру?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>у меня // сейчас / выскажу почему... какое у меня есть предположение // ну вот / и второй как бы аргумент людей которые против этого / что якобы ни одна история с вундеркиндами / она не заканчивалась хорошо / то есть они там спивались / сходили с ума // вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>их лишают полностью во-первых социализации / а это уже удар как бы по психике ребёнка // да / и второе наверное что слишком // она / типа это очень грустно / но она // родители её говорили / что она не понимает литературу / то есть она не читала / а // ну там вот огромное количество литературы которое изучается там с седьмого по одиннадцатый класс</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>ну "Незнайку" она чит... /// нет / не "Незнайку" // Булычёва она читала</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>ну Булычёв / да это прекрасно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>сейчас у нас передёт наше видео в книжный блог Галины Юзефович // Булычёв это прекрасно // ой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>ну не понимает / да / как себя вести // ну и плюс нездоровая конкуренция // она вс... ну не всегда но частично может присутствовать в коллективе / у которого там // ну например с рейтингом / в мгу же есть рейтинг / вот // а тут отец как бы ещё больше дров подкидывает</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>а она несовершеннолетняя</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>у меня знаешь что // самое / вот что меня интересует // то есть у нас у нас есть ограничения на рабочий день для подростков /  до пятнадцати лет // на учебный нет / то есть она учится по сути / если так предположить / вот у нас сейчас.. мой максимум пять пар во вторник / при этом есть окно // то есть я учусь с девяти тридцати до девятнадцати тридцати / это десять часов // предположительно / например есть один день на психфаке мгу когда у них такой же график // ей нельзя работать / но учиться десять часов она может</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>уху</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="saocybacon" LINGUISTIC_TYPE_REF="gestures"
+        PARTICIPANT="@sms2002f" TIER_ID="@sms2002f-Gestures"/>
+    <TIER ANNOTATOR="saocybacon" LINGUISTIC_TYPE_REF="gesture-meaning"
+        PARENT_REF="@sms2002f-Gestures" PARTICIPANT="@sms2002f" TIER_ID="@sms2002f-Gestmeaning"/>
+    <TIER ANNOTATOR="saocybacon" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@spv2002f" TIER_ID="text@spv2002f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>аа да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ну я считаю что это достаточно бесконечная тема для обсуждения потому что / аа / ну это не обсуждение образования / а обсуждение скорее типа того какие сферы могут как-то извне регламентироваться / какие нет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>*смеётся*</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>ну по сути тут // ну а если мы рассматриваем как мы можем на это повлиять / то как бы если таким родителям условно запретить ребёнка отдавать в универ / аа / они отправят его на тридцать кружков / аа / и проблема останется да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>да / мама у них вообще нет...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>ну да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>но мне кажется тут даже не нормально ли / а типа чё нам с этим делать потому что и так понятно что ненормально // ну и типа имеем ли мы право с этим что-то делать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>ну да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>ну там у родителей планы а-ля писать докторскую и так далее</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>я думаю даже раньше</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>не знаю // там вообще какая-то очень мутная история с деньгами в этой семье</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>ну есть истории некотрые / но кажется что / м / детям лучше помогать нормально развиваться чем типа форсить их развитие  / типа // это как не помощь получается / а усугубление проблемы / потому что у них / не знаю / кажется психика не успевает расти за там объёмом знаний который они получают // ну то есть </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>не / он же говорил что типа / она будет читать другую литературу / то есть она читает и в целом...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>ну Булычёва читала / да // но в целом для её возраста это вполне</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>а</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>о / отлично // я в восторге / да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>аа // ну вот ты говорила про студентов которые учатся с ней / и им я прямо очень сочувсвую потому что / а / ну ты там прикладываешь большие усилия чтобы поступить / ты там ну относительно некоторых ты ещё платишь за это образование / а по сути // ну они там жалуются на то что даже учебный процессорганизовать сложно / потому что там она шумит / она говорит постоянно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>а мне вот интересно по какому типа праву с ней отец ходит // как выпускник? // а</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>а на учебный нет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>ну да // да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>ну да  / и кстати между прочим если даже мы рассматриваем более стандартные ситуации / а-ля пропустили только десятый класс и поступили в универ в шестнадцать // а я знаю что у нас вроде бы на первом курсе кто-то такой есть // аа / тоже получается человек там учится эти десять часов / и самомтоятельные работы // и считается что это нормально / хотя работать никто не разрешит // и тут конечно можно сказать типа  / вы поступали в вуз и вы знали что вам там будет сложно / но а почему тогда нельзя пойти работать?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="saocybacon" LINGUISTIC_TYPE_REF="gestures"
+        PARTICIPANT="@spv2002f" TIER_ID="@spv2002f-Gestures"/>
+    <TIER ANNOTATOR="saocybacon" LINGUISTIC_TYPE_REF="gesture-meaning"
+        PARENT_REF="@spv2002f-Gestures" PARTICIPANT="@spv2002f" TIER_ID="@spv2002f-gesture_meaning"/>
+    <TIER ANNOTATOR="saocybacon" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@sms2002f"
+        PARTICIPANT="@sms2002f" TIER_ID="transl@sms2002f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>okay</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>khm-khm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>discussing the discussion</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>are we still talking about Alisa Teplyakova?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>aa / i think that this situation is terrible // we have a nine-year-old child // aa / who wants to become a psychologist / needs a psychologist // it would be better of course if the father / goes to the psychologist // this is certainly commendable but / aa / when you are nine years old you can get specialized class where less time will be devoted to stupid general subjects / like how i had it / that is as an external student you hand over very meaningless subjects / at that time for me // now (there is) not) // biology geography / and then you (can) do what you want</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>and the child will still be under supervision</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>well the point is that apparently um is the parent / exactly the father / because judging by the interview their mother is not very sociable // just satisfies his internal complexes by the child // but probably this is not entirely the case / the point is // w-we are discussing exactly the fact whether it is normal that a nine-year-old child studies in one of the most difficult aa course / well like for the brain let us say so // because psychology is a concept of human nature / this is very difficult / so // is it normal that a nine-year-old fragile mind studying there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>there just a few more problems that immediately arise for example the rudeness of the father // it is just I-I honestly / I think / aa / if I had such a situation that is I would go with an adult / very adult person / and he would walk with his child as a wunderkind supposedly // like we just can not say this because we have not seen her and psychologists / as far as I know / have not talked to her // so // what I mean // well in general if I had this kind of situation / I would probably be very worried about this because it distracts from the educational process / so // and another problem is / aa / some people say that // I am... from what I read under / a / MGU overheard and something like that // guys like this / okay, let us say she is a child prodigy / let us say she needs this education she can roughly speaking take a bachelor's course in psychology in two years instead of four / become a specialist // the first question that arises is what will she do then / that is well roughly speaking at twelve years old she graduated from university / she will go to work / how?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>God before the age of eighteen she will receive all levels of education</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>and.. and.. then that is all // and who will pay for a doct... a doctorate?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>I have // now / I will tell you why ... what assumption do I have // well here is / and the second argument of people who are against it / that supposedly no story with geeks / it did not end well / that is they got drunk / went crazy // so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>they are completely deprived of socialization firstly / and this is already a blow as it were on the child's psyche // yes / and the second is probably too much // she / like it is very sad / but she // her parents said / that she does not understand literature / she has not read / aa // well there is a huge amount of literature that is studied from the seventh to the eleventh grade</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>well Neznayka she rea ... /// no / not Neznayka // she read Bulychev</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>well Bulychev / yes that is great</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>now we will transfer our video to the book blog of Galina Yuzefovich // Bulychev is great // oh</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>yep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>well she does not understand / yes / how to behave // well plus unhealthy competition // it is alw... well not always but partly may be present in the team / who has there // well for example with a rating / there is a rating in MSU / so // and here the father seems to throw more firewood</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>so she is a minor </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>you know what // the most / that is what interests me // we have restrictions on the working day for teenagers / under fifteen / for education no / so she is studing in essence / is suppose / but now we have... my maximum is five classes on Tuesday / while there is free time // that is I study from nine thirty to nineteen thirty / this is ten hours // presumably / for example there is one day at the psychology department of the Moscow State University when they have the same schedule // she cannot work / but she can study for ten hours</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>yep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="saocybacon" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@spv2002f"
+        PARTICIPANT="@spv2002f" TIER_ID="transl@spv2002f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>aa yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>so I think this is (a rather) endless topic for discussion because / aa / soo it is not discussion about education / it is rater discussion about (of) which questions can somehow be regulated from the outside / which can not</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>*laughing*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>well in fact // well if we consider how we can influence this / then if such parents are conditionally prohibited to give their child to the university / aa / they send their child to thirty hobby groups // aa/ and the problem remains yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>yep / their mother is not...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>but it seems to me that it is not even okay here / but what can we do with it because it’s already clear that it is not normal // well like do we have the right to do something with it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>yep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>well yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>yep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>well parents have plans a-la getting a doctorate</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>I think even earlier</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>I don not know // there is generally very muddy story with money in this family</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>well there are some stories / but it seems that / mm / it is better to help children develop normally than to speed up their development / like // it is like no help is obtained / but the aggravation of the problem / because they / I don not know / it seems the psyche does not have time to grow after the amount of knowledge they receive // well that is</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>not / he said that / she reads a different literature / so she reads and in general ...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>well, Bulycheva read / yes // but in general for her age this is quite (enough)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>o / excellent // I am delighted / yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>aa // well you talked about the students who study with her / and I really sympathize with them because / a / well you make efforts there to enter / so regarding some you still pay for this education / but in fact // well they complain that even the educational process is difficult to organize / because she makes noise / she talks constantly</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>but I am wondering by what right her father walks with her // as a graduate? // oh</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>yep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>so yes // yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>well yes / and by the way even if we consider more standard situations / a-la skipped only the tenth grade and entered the university at sixteen // and I know that we seem to have someone like that in our university // aa / it also turns out that a person studies these ten hours / and independent work // and it is considered that this is normal / although no one will allow to work // and then of course you can say like / you entered the university and you knew that it would be difficult for you there / but why then you can not go to work?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture-meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
